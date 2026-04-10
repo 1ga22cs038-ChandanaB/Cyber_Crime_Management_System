@@ -41,17 +41,10 @@ The Cyber Crime Reporting System is a desktop-based application developed to sim
 - Integration with real cyber crime portals
 
 ## 📷 Screenshots
+Check in results folder
 
-
-![Screenshot](Results/Screenshot(40).png)
-![Screenshot](Results/Screenshot(41).png)
-![Screenshot](Results/Screenshot(42).png)
-![Screenshot](Results/Screenshot(43).png)
-![Screenshot](Results/Screenshot(44).png)
-![Screenshot](Results/Screenshot(45).png)
-![Screenshot](Results/Screenshot(46).png)
-
-
+## Documentation
+Attached 
 
 ## 👩‍💻 Author
 Chandana B
